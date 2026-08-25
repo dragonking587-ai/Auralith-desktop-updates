@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-desktop-test.9",
-  "tag": "v1.0.0-desktop-test.9",
-  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.9",
-  "releaseNotes": "Auralith Desktop Test 9 \u2014 Virtual Camera auto-registration.",
+  "version": "1.0.0-desktop-test.10",
+  "tag": "v1.0.0-desktop-test.10",
+  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.10",
+  "releaseNotes": "Auralith Desktop Test 10 \u2014 Check for Updates uses a public HTTPS manifest and awaits the real network request.",
   "date": "2026-08-25",
   "minimumSupportedVersion": "1.0.0-desktop-test.1"
 }
