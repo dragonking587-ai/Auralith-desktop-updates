@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-desktop-test.15",
-  "tag": "v1.0.0-desktop-test.15",
-  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.15",
-  "releaseNotes": "Auralith Desktop Test 15 \u2014 Broadcast Output (recommended Window Capture). Virtual Camera remains Experimental.",
+  "version": "1.0.0-desktop-test.16",
+  "tag": "v1.0.0-desktop-test.16",
+  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.16",
+  "releaseNotes": "Auralith Desktop Test 16 \u2014 fix blank white Broadcast Output (SPA URL + hub snapshot).",
   "date": "2026-08-26",
   "minimumSupportedVersion": "1.0.0-desktop-test.1"
 }
