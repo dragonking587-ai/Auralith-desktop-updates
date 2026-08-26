@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-desktop-test.10",
-  "tag": "v1.0.0-desktop-test.10",
-  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.10",
-  "releaseNotes": "Auralith Desktop Test 10 \u2014 Check for Updates uses a public HTTPS manifest and awaits the real network request.",
-  "date": "2026-08-25",
+  "version": "1.0.0-desktop-test.11",
+  "tag": "v1.0.0-desktop-test.11",
+  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.11",
+  "releaseNotes": "Auralith Desktop Test 11 \u2014 allow vcam_install/vcam_uninstall in Tauri ACL.",
+  "date": "2026-08-26",
   "minimumSupportedVersion": "1.0.0-desktop-test.1"
 }
