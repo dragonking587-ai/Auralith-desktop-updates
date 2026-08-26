@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-desktop-test.12",
-  "tag": "v1.0.0-desktop-test.12",
-  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.12",
-  "releaseNotes": "Auralith Desktop Test 12 \u2014 Virtual Camera shows live Stream Output (not test pattern).",
+  "version": "1.0.0-desktop-test.13",
+  "tag": "v1.0.0-desktop-test.13",
+  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.13",
+  "releaseNotes": "Auralith Desktop Test 13 \u2014 installer safely replaces locked softcam.dll on upgrade (unregister, free DLL, no Ignore).",
   "date": "2026-08-26",
   "minimumSupportedVersion": "1.0.0-desktop-test.1"
 }
