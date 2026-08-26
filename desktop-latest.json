@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-desktop-test.11",
-  "tag": "v1.0.0-desktop-test.11",
-  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.11",
-  "releaseNotes": "Auralith Desktop Test 11 \u2014 allow vcam_install/vcam_uninstall in Tauri ACL.",
+  "version": "1.0.0-desktop-test.12",
+  "tag": "v1.0.0-desktop-test.12",
+  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.12",
+  "releaseNotes": "Auralith Desktop Test 12 \u2014 Virtual Camera shows live Stream Output (not test pattern).",
   "date": "2026-08-26",
   "minimumSupportedVersion": "1.0.0-desktop-test.1"
 }
