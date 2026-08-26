@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-desktop-test.16",
-  "tag": "v1.0.0-desktop-test.16",
-  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.16",
-  "releaseNotes": "Auralith Desktop Test 16 \u2014 fix blank white Broadcast Output (SPA URL + hub snapshot).",
+  "version": "1.0.0-desktop-test.17",
+  "tag": "v1.0.0-desktop-test.17",
+  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.17",
+  "releaseNotes": "Auralith Desktop Test 17 \u2014 P0 stabilization: CI release gates; Broadcast Output recommended path.",
   "date": "2026-08-26",
   "minimumSupportedVersion": "1.0.0-desktop-test.1"
 }
