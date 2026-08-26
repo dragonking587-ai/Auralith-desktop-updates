@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-desktop-test.14",
-  "tag": "v1.0.0-desktop-test.14",
-  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.14",
-  "releaseNotes": "Auralith Desktop Test 14 \u2014 installer Softcam unregister no longer hangs (12s timeout + reg delete without loading DLL).",
+  "version": "1.0.0-desktop-test.15",
+  "tag": "v1.0.0-desktop-test.15",
+  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.15",
+  "releaseNotes": "Auralith Desktop Test 15 \u2014 Broadcast Output (recommended Window Capture). Virtual Camera remains Experimental.",
   "date": "2026-08-26",
   "minimumSupportedVersion": "1.0.0-desktop-test.1"
 }
