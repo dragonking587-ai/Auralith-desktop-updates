@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-desktop-test.19",
-  "tag": "v1.0.0-desktop-test.19",
-  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.19",
-  "releaseNotes": "Auralith Desktop Test 19 \u2014 fix Native Broadcast Output Rust compile (HWND/WM_QUIT).",
+  "version": "1.0.0-desktop-test.20",
+  "tag": "v1.0.0-desktop-test.20",
+  "downloadUrl": "https://github.com/dragonking587-ai/Auralith/releases/tag/v1.0.0-desktop-test.20",
+  "releaseNotes": "Auralith Desktop Test 20 \u2014 Output tab: Open Native Broadcast Output button + status.",
   "date": "2026-08-26",
   "minimumSupportedVersion": "1.0.0-desktop-test.1"
 }
